@@ -1,4 +1,4 @@
-﻿/*=============================================================
+/*=============================================================
     Authour URL: www.designbootstrap.com
     
     http://www.designbootstrap.com/
@@ -46,9 +46,15 @@ section {
  margin-bottom: 20px;
 line-height: 30px;
 font-size: 25px;
-color: #737373;
+color: #000000;
 }
 
+.head-line2 {
+ margin-bottom: 20px;
+line-height: 30px;
+font-size: 17px;
+color: #000000;
+}
 
 /*================================
   HEADER STYLES
@@ -112,12 +118,11 @@ header {
 line-height: 40px;
 font-size: 35px;
 color: #FFFFFF;
-text-transform:uppercase;
     }
     #home h4 {
       margin-bottom: 30px;
 line-height: 40px;
-font-size: 20px;
+font-size: 25px;
 color: #f8f8f8;
     }
 
@@ -153,7 +158,7 @@ color:#000;
 background-color: #48A5FF;
 border:5px solid #48A5FF; 
 color:#fff;       
-  
+font-size: 18px;
 }
  .btn-two:hover {
  background-color:transparent;
@@ -182,7 +187,7 @@ color:#000;
  .icon-wrapper {
     padding-bottom:20px;
     padding-top:20px;
-    font-size:50px;
+    font-size:40px;
 }
  
 .img-side {
@@ -277,7 +282,7 @@ width:60%;
 height:50px;
 font-size:20px;
 color: #fff;
-background-color: #737373;
+background-color: #0E4BE1;
 border-color: #5C5C5C;
 margin-top:-10px;
 }
@@ -318,7 +323,7 @@ margin-top:-10px;
  ============================  */
 footer {
     padding:15px;
-    background-color:#48A5FF;
+    background-color:#0E4BE1;
     color:#fff;
     }
     footer a,footer a:hover,footer a:focus {
